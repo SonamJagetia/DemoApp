@@ -1,0 +1,336 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"stripe_id"
+			],
+			[
+				"us",
+				"user_stripe_account"
+			],
+			[
+				"str",
+				"stripe_id"
+			],
+			[
+				"use",
+				"user_stripe_account"
+			],
+			[
+				"pro",
+				"profileCallback"
+			],
+			[
+				"user",
+				"userStripe"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"re",
+				"Request"
+			],
+			[
+				"usr",
+				"userStripeAdmin"
+			],
+			[
+				"mode",
+				"model"
+			],
+			[
+				"s",
+				"stripe_id"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"t",
+				"token"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"pay",
+				"Payment"
+			],
+			[
+				"p",
+				"publishKey"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"con",
+				"confirm_message"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"co",
+				"confirm_message"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"em",
+				"emailTo"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"E",
+				"EMAIL_PORT"
+			],
+			[
+				"e",
+				"EMAIL_HOST"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"Sta",
+				"STATIC_URL"
+			],
+			[
+				"de",
+				"DEBUG"
+			],
+			[
+				"view",
+				"views"
+			],
+			[
+				"pr",
+				"profileAdmin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sonamvjagetia/Desktop/tryten/static/static-only"
+	],
+	"file_history":
+	[
+		"/Users/sonamvjagetia/Desktop/tryten/src/profiles/models.py",
+		"/Users/sonamvjagetia/Desktop/tryten/src/contact/forms.py",
+		"/Users/sonamvjagetia/Desktop/tryten/src/profiles/admin.py",
+		"/Users/sonamvjagetia/Desktop/tryten/src/checkout/views.py",
+		"/Users/sonamvjagetia/Desktop/tryten/src/tryten/settings.py",
+		"/Users/sonamvjagetia/Desktop/tryten/src/checkout/templates/checkout.html",
+		"/Users/sonamvjagetia/Desktop/tryten/src/profiles/templates/base.html",
+		"/Users/sonamvjagetia/Desktop/tryten/src/tryten/urls.py",
+		"/Users/sonamvjagetia/Desktop/tryten/src/profiles/templates/home.html",
+		"/Users/sonamvjagetia/Desktop/tryten/src/profiles/templates/navbar.html",
+		"/Users/sonamvjagetia/Desktop/tryten/src/profiles/templates/profile.html",
+		"/Users/sonamvjagetia/Desktop/tryten/src/profiles/views.py",
+		"/Users/sonamvjagetia/Desktop/tryten/src/profiles/templates/account/signup.html",
+		"/Users/sonamvjagetia/Desktop/tryten/src/profiles/templates/account/logout.html",
+		"/Users/sonamvjagetia/Desktop/tryten/src/profiles/templates/account/login.html",
+		"/Users/sonamvjagetia/Desktop/Clients/ACCOUNT_AUTHENTICATION_CODE",
+		"/Users/sonamvjagetia/Desktop/tryten/src/contact/templates/contact.html",
+		"/Users/sonamvjagetia/Desktop/tryten/src/contact/views.py",
+		"/Users/sonamvjagetia/Desktop/tryten/src/profiles/templates/about.html",
+		"/Users/sonamvjagetia/Desktop/tryten/static/static/css/main.css",
+		"/Users/sonamvjagetia/Desktop/tryten/src/contacact/apps.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"TLS",
+			"tls",
+			"stripeToken",
+			"token",
+			"event",
+			"could",
+			"charge"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "tryten.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
